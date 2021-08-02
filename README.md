@@ -9,15 +9,15 @@ For now, I've only completed the top bar (header and navigation), and the reserv
 
 ### Original
 
-![](design/original-desktop)
+![](design/original-desktop.png)
 
-![](design/original-mobile)
+![](design/original-mobile.png)
 
 ### Replica
 
-![](design/replica-desktop)
+![](design/replica-desktop.png)
 
-![](design/replica-mobile)
+![](design/replica-mobile.png)
 
 ## Details
 
