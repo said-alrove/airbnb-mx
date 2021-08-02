@@ -7,13 +7,13 @@ For now, I've only completed the top bar (header and navigation), and the reserv
 
 ## Project's preview (original/replica)
 
-### Original
+### Desktop
 
 ![](design/original-desktop.png)
 
 ![](design/replica-desktop.png)
 
-### Replica
+### Mobile
 
 ![](design/original-mobile.png)
 
