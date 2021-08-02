@@ -7,7 +7,7 @@
 .reservations-disclaimer { 
     @include thm.mx-query($device: 'tablet', $size: 'sm') {
         position: absolute;
-        inset-block-end: -10.5rem;
+        inset-block-end: -9.5rem;
         @include thm.mx-flexbox($al-items: center);
         padding: 1.6rem 3.2rem;
         inline-size: 46rem;

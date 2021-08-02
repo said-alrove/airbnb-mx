@@ -130,7 +130,7 @@ a {
 }
 @media (min-width: 768px) {
   .reservations-container {
-    margin-block-start: 3.5rem;
+    margin-block-start: 4rem;
     margin-inline: 0;
     padding: 3.2rem;
     inline-size: 46rem;
@@ -265,7 +265,7 @@ a {
 @media (min-width: 768px) {
   .reservations-disclaimer {
     position: absolute;
-    inset-block-end: -10.5rem;
+    inset-block-end: -9.5rem;
     display: flex;
     align-items: center;
     padding: 1.6rem 3.2rem;
