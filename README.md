@@ -5,17 +5,17 @@ My idea with this project is to replicate the home of the [Airbnb MX](https://es
 
 For now, I've only completed the top bar (header and navigation), and the reservation formulary with its respective hero image in the distance, but I'll be adding new parts of the page over time.
 
-## Project's preview
+## Project's preview (original/replica)
 
 ### Original
 
 ![](design/original-desktop.png)
 
-![](design/original-mobile.png)
+![](design/replica-desktop.png)
 
 ### Replica
 
-![](design/replica-desktop.png)
+![](design/original-mobile.png)
 
 ![](design/replica-mobile.png)
 
