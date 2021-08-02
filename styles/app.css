@@ -130,7 +130,7 @@ a {
 }
 @media (min-width: 768px) {
   .reservations-container {
-    margin-block-start: 2.5rem;
+    margin-block-start: 3.5rem;
     margin-inline: 0;
     padding: 3.2rem;
     inline-size: 46rem;
